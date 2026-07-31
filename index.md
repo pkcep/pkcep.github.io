@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Conference Series"
+title: "PkCEP - Computing Education Practice in Pakistan"
 ---
 
 # Welcome to the PkCEP Conference Series
 
+<!--
 This is the home of our annual conference Computing Education Practice in Pakistan.
 
 ## About the Conference
+-->
 
 PkCEP Is the first conference of its kind in Pakistan with a focus on the practice of Computing Education at different levels (higher / K-12 / tertiary), currently with a bias towards higher education. 
 
@@ -20,7 +22,6 @@ Our aim is to create a platform for sharing best practices in computing educatio
 - Curriculum Development
 - Diversity and Inclusion in Computing
 
-
 ## Upcoming Conference
 
 <div class="conference-grid">
@@ -31,6 +32,33 @@ Our aim is to create a platform for sharing best practices in computing educatio
     <p>Join us for the 2nd annual conference.</p>
     <a href="/2027/" class="button">Learn More →</a>
   </div>
+</div>
+  
+
+  
+## Previous Conferences
+<div class="conference-grid">
+  <div class="conference-card">
+    <h2><a href="/2025/">Conference 2025</a></h2>
+    <p><strong>LUMS Lahore, Pakistan</strong></p>
+    <p>26th July 2025</p>
+    <p>1st edition of PkCEP.</p>
+    <a href="/2025/" class="button">Learn More →</a>
+  </div>
+</div>
+
+
+<!--
+<div class="conference-grid">
+  <div class="conference-card">
+    <h2><a href="/2025/">Conference 2025</a></h2>
+    <p><strong>LUMS, Lahore, Pakistan</strong></p>
+    <p>26th July 2025</p>
+    <p>The 1st edition of our flagship conference.</p>
+    <a href="/2025/" class="button">Learn More →</a>
+  </div>
+</div>
+-->
 
 <!--
 ### Important Dates
@@ -42,16 +70,3 @@ Our aim is to create a platform for sharing best practices in computing educatio
 | Early Registration | May 1, 2026 |
 | Conference | July 13-15, 2026 |
 -->
-  
-## Previous Conferences
-
-  <div class="conference-card">
-    <h2><a href="/2025/">Conference 2026</a></h2>
-    <p><strong>LUMS, Lahore, Pakistan</strong></p>
-    <p>26th July 2025</p>
-    <p>The 1st edition of our flagship conference.</p>
-    <a href="/2026/" class="button">Learn More →</a>
-  </div>
-</div>
-
-

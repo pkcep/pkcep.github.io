@@ -1,6 +1,7 @@
 # Site settings
-title: "Conference Series"
-description: "Annual Conference on Innovation and Technology"
+title: "Computing Education Practice in Pakistan"
+description: "Conference on Computing Education Practice in Pakistan"
+logo: "/assets/images/pkcep-logo-2025-v1.png"
 baseurl: ""
 url: "https://pkcep.github.io/"  # Replace with your GitHub Pages URL
 
