@@ -322,7 +322,6 @@ permalink: /2025/
             - <span class="title">Broadening Participation in Computing Education</span>
             <div class="talk-links">
                 <a href="https://youtu.be/LhuORnWCO5s" target="_blank" class="video-link">▶ Watch Video</a>
-                <a href="/assets/slides/ethel-tshukudu.pdf" class="slide-link">📄 Download Slides</a>
             </div>
         </li>
         <li>
