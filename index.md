@@ -3,42 +3,37 @@ layout: default
 title: "Conference Series"
 ---
 
-# Welcome to the Conference Series
+# Welcome to the PkCEP Conference Series
 
-This is the home of our annual conference on innovation and technology in computer science education.
-
-## Upcoming Conferences
-
-<div class="conference-grid">
-  <div class="conference-card">
-    <h2><a href="/2027/">Conference 2027</a></h2>
-    <p><strong>Glasgow, Scotland</strong></p>
-    <p>12-14 July 2027</p>
-    <p>Join us for the 32nd annual conference.</p>
-    <a href="/2027/" class="button">Learn More →</a>
-  </div>
-  
-  <div class="conference-card">
-    <h2><a href="/2026/">Conference 2026</a></h2>
-    <p><strong>Madrid, Spain</strong></p>
-    <p>13-15 July 2026</p>
-    <p>The 31st edition of our flagship conference.</p>
-    <a href="/2026/" class="button">Learn More →</a>
-  </div>
-</div>
+This is the home of our annual conference Computing Education Practice in Pakistan.
 
 ## About the Conference
 
-This conference is the premier venue for researchers, educators, and practitioners to share their latest findings and innovations.
+PkCEP Is the first conference of its kind in Pakistan with a focus on the practice of Computing Education at different levels (higher / K-12 / tertiary), currently with a bias towards higher education. 
+
+Our aim is to create a platform for sharing best practices in computing education, discussing challenges and ways to address them, and develop a community with a shared interest in improving the quality of computing education in Pakistan
 
 ### Key Topics
-- Computer Science Education
+- Computing Science Education
 - Educational Technology
 - Pedagogical Innovations
 - Curriculum Development
 - Diversity and Inclusion in Computing
 
-## Important Dates
+
+## Upcoming Conference
+
+<div class="conference-grid">
+  <div class="conference-card">
+    <h2><a href="/2027/">Conference 2027</a></h2>
+    <p><strong>UMT Lahore, Pakistan</strong></p>
+    <p>8th Jan 2027 (tentative)</p>
+    <p>Join us for the 2nd annual conference.</p>
+    <a href="/2027/" class="button">Learn More →</a>
+  </div>
+
+<!--
+### Important Dates
 
 | Event | Date |
 |-------|------|
@@ -46,3 +41,17 @@ This conference is the premier venue for researchers, educators, and practitione
 | Notification | April 15, 2026 |
 | Early Registration | May 1, 2026 |
 | Conference | July 13-15, 2026 |
+-->
+  
+## Previous Conferences
+
+  <div class="conference-card">
+    <h2><a href="/2025/">Conference 2026</a></h2>
+    <p><strong>LUMS, Lahore, Pakistan</strong></p>
+    <p>26th July 2025</p>
+    <p>The 1st edition of our flagship conference.</p>
+    <a href="/2026/" class="button">Learn More →</a>
+  </div>
+</div>
+
+
