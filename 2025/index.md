@@ -313,17 +313,56 @@ permalink: /2025/
         <div class="description">Full Agenda, Summary of Talks, and Speaker Biographies</div>
     </header>
 
-    <section class="toc">
-        <h2>Conference Schedule</h2>
-        <ul>
-            <li><span class="time">9:30-10:00</span> <span class="speaker">Ethel Tshukudu</span> - <span class="title">Broadening Participation in Computing Education</span></li>
-            <li><span class="time">10:00-10:30</span> <span class="speaker">Sarfraz Raza</span> - <span class="title">Introducing Programming to Beginners</span></li>
-            <li><span class="time">10:30-11:00</span> <span class="speaker">Muhammad Hamad Alizai</span> - <span class="title">Teaching Computer Science at Scale</span></li>
-            <li><span class="time">11:30-12:00</span> <span class="speaker">Mobin Javed and Maryam Ghafoor</span> - <span class="title">How We Designed a CS Course for Industry Success</span></li>
-            <li><span class="time">12:00-12:30</span> <span class="speaker">Matthew Barr</span> - <span class="title">Delivering a Work-Based Learning Degree Programme</span></li>
-            <li><span class="time">12:30-13:15</span> <span class="speaker">Panel discussion</span> - <span class="title">Computing Education in Pakistan – Going Forward in the age of AI</span></li>
-        </ul>
-    </section>
+<section class="toc">
+    <h2>Conference Schedule</h2>
+    <ul>
+        <li>
+            <span class="time">9:30-10:00</span>
+            <span class="speaker">Ethel Tshukudu</span>
+            - <span class="title">Broadening Participation in Computing Education</span>
+            <div class="talk-links">
+                <a href="https://youtu.be/LhuORnWCO5s" target="_blank" class="video-link">▶ Watch Video</a>
+                <a href="/assets/slides/ethel-tshukudu.pdf" class="slide-link">📄 Download Slides</a>
+            </div>
+        </li>
+        <li>
+            <span class="time">10:00-10:30</span>
+            <span class="speaker">Sarfraz Raza</span>
+            - <span class="title">Introducing Programming to Beginners</span>
+            <div class="talk-links">
+                <a href="https://youtu.be/KfLIDxOEjFk" target="_blank" class="video-link">▶ Watch Video</a>
+                <a href="/assets/slides/sarfraz-raza.pdf" class="slide-link">📄 Download Slides</a>
+            </div>
+        </li>
+        <li>
+            <span class="time">10:30-11:00</span>
+            <span class="speaker">Muhammad Hamad Alizai</span>
+            - <span class="title">Teaching Computer Science at Scale</span>
+            <div class="talk-links">
+                <a href="https://youtu.be/J5XJKwn0xa8?si=LfK" target="_blank" class="video-link">▶ Watch Video</a>
+            </div>
+        </li>
+        <li>
+            <span class="time">11:30-12:00</span>
+            <span class="speaker">Mobin Javed and Maryam Ghafoor</span>
+            - <span class="title">How We Designed a CS Course for Industry Success</span>
+        </li>
+        <li>
+            <span class="time">12:00-12:30</span>
+            <span class="speaker">Matthew Barr</span>
+            - <span class="title">Delivering a Work-Based Learning Degree Programme</span>
+            <div class="talk-links">
+                <a href="https://youtu.be/k2hEn1WsYmc" target="_blank" class="video-link">▶ Watch Video</a>
+                <a href="/assets/slides/matt-barr.pdf" class="slide-link">📄 Download Slides</a>
+            </div>
+        </li>
+        <li>
+            <span class="time">12:30-13:15</span>
+            <span class="speaker">Panel discussion</span>
+            - <span class="title">Computing Education in Pakistan – Going Forward in the age of AI</span>
+        </li>
+    </ul>
+</section>
 
 
     <article class="agenda-section">

@@ -22,6 +22,10 @@ Our aim is to create a platform for sharing best practices in computing educatio
 - Curriculum Development
 - Diversity and Inclusion in Computing
 
+### Recorded talks from previous conferences
+
+[Please head here for our dedicated youtube channel](https://www.youtube.com/@PkCEPconf) where all recordings of all previous PkCEP talks (where we have permission from speakers) are available.
+
 ## Upcoming Conference
 
 <div class="conference-grid">
