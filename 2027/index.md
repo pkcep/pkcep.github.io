@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "Conference 2027 - Glasgow, Scotland"
+layout: conference-page
+title: "PkCEP 2027 - Lahore, Pakistan"
 permalink: /2027/
+year: 2027
 ---
 
 # 2nd Conference on Computing Education Practice in Pakistan

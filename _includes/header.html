@@ -2,35 +2,30 @@
   <div class="wrapper">
     <div class="header-content">
       <div class="site-title">
-        <a href="{{ "/" | relative_url }}">
+        <a href="/">
           {% if site.logo %}
             <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo">
           {% endif %}
           <span class="title-text">{{ site.title }}</span>
         </a>
       </div>
+      
       <nav class="site-nav">
-        <a href="{{ "/" | relative_url }}">Home</a>
-        <a href="{{ "/2025/" | relative_url }}">2025</a>
-        <a href="{{ "/2027/" | relative_url }}">2027</a>
+        {% if page.year %}
+          <!-- Dynamically load navigation from _config.yml -->
+          {% assign nav_items = site.conference_nav[page.year] %}
+          {% for item in nav_items %}
+            <a href="{{ item.url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.name }}</a>
+          {% endfor %}
+          <!-- Link back to main site -->
+          <a href="/" class="main-site-link">Main Site</a>
+        {% else %}
+          <!-- Default navigation for main site -->
+          <a href="/">Home</a>
+          <a href="/2025/">2025</a>
+          <a href="/2027/">2027</a>
+        {% endif %}
       </nav>
     </div>
   </div>
 </header>
-
-<!--
-<header>
-    <div class="container">
-        <div class="site-header">
-            <div class="site-title">
-                <a href="/">{{ site.title }}</a>
-            </div>
-            <nav>
-                <a href="/">Home</a>
-                <a href="/2025/">2025</a>
-                <a href="/2027/">2027</a>
-            </nav>
-        </div>
-    </div>
-</header>
--->

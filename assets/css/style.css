@@ -76,26 +76,38 @@ header {
 }
 
 /* Forces navigation links to align to the far right */
+/* Navigation - supports both main site and year pages */
 nav,
 .site-nav {
-    margin-left: auto;
     display: flex;
     align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
 }
 
-nav a {
+nav a,
+.site-nav a {
     color: rgba(255,255,255,0.85);
-    margin-left: 1.5rem;
+    padding: 0.5rem 1rem;
     text-decoration: none;
     font-weight: 500;
-    transition: color 0.2s;
-    font-size: 1.1rem;
-    white-space: nowrap; 
+    border-radius: 4px;
+    transition: background 0.2s, color 0.2s;
+    font-size: 1.05rem;
+    white-space: nowrap;
 }
 
-nav a:hover {
+nav a:hover,
+.site-nav a:hover {
+    background: rgba(255,255,255,0.15);
     color: #fff;
-    text-decoration: underline;
+    text-decoration: none;
+}
+
+nav a.active,
+.site-nav a.active {
+    background: rgba(255,255,255,0.2);
+    color: #fff;
 }
 
 /* Main content */
@@ -297,17 +309,20 @@ footer a:hover {
 }
 
 /* Responsive design */
+/* Responsive design */
 @media (max-width: 768px) {
     .site-header,
     .header-content {
-        flex-direction: row;            
-        justify-content: space-between; 
+        flex-direction: row;
+        justify-content: space-between;
         align-items: center;
         gap: 0.5rem;
+        flex-wrap: wrap;
     }
     
     .site-title a {
-        font-size: 1.1rem; 
+        font-size: 1.1rem;
+        gap: 0.4rem;
     }
     
     .site-logo {
@@ -316,31 +331,96 @@ footer a:hover {
     
     nav,
     .site-nav {
-        display: flex;
-        flex-wrap: nowrap; 
-        gap: 0.3rem;
-        width: auto;       
+        gap: 0.2rem;
+        flex-wrap: wrap;
+        justify-content: flex-end;
     }
     
-    nav a {
-        margin-left: 0.4rem;
+    nav a,
+    .site-nav a {
+        padding: 0.3rem 0.6rem;
         font-size: 0.85rem;
-        padding: 0.2rem 0.3rem;
+        margin-left: 0;
     }
 }
 
 @media (max-width: 480px) {
     .site-title a {
         font-size: 0.9rem;
+        gap: 0.3rem;
     }
     
     .site-logo {
         height: 28px;
     }
     
-    nav a {
-        font-size: 0.8rem;
-        margin-left: 0.2rem;
-        padding: 0.2rem;
+    nav a,
+    .site-nav a {
+        font-size: 0.75rem;
+        padding: 0.2rem 0.4rem;
     }
 }
+
+/* Conference Header */
+
+.conference-title a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.conf-name {
+    font-size: 1.8rem;
+    font-weight: 700;
+    display: block;
+}
+
+.conf-location {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.conference-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.conference-nav a {
+    color: rgba(255,255,255,0.85);
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+.conference-nav a:hover {
+    background: rgba(255,255,255,0.15);
+    color: #fff;
+    text-decoration: none;
+}
+
+.conference-nav a.active {
+    background: rgba(255,255,255,0.2);
+    color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .conference-header-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .conference-nav {
+        width: 100%;
+    }
+    
+    .conference-nav a {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.9rem;
+    }
+}
+
+
+

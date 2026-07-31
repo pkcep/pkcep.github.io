@@ -23,3 +23,13 @@ defaults:
       path: ""
     values:
       layout: default
+      
+# Year-specific navigation
+conference_nav:
+  2027:
+    - name: "Home"
+      url: "/2027/"
+    - name: "Working Groups"
+      url: "/2027/working-groups/"
+    - name: "Organizers"
+      url: "/2027/organizers/"      

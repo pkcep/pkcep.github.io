@@ -29,3 +29,11 @@ This site is designed to be deployed on GitHub Pages.
 - Edit `_config.yml` for site-wide settings
 - Update content in individual markdown files
 - Modify `assets/css/style.css` for styling changes
+
+## Adding a new page to a conference like 2027
+Adding a New Page to 2027
+Now you only need to make one change:
+
+Create the file 2027/new-page.md
+
+Add the link to _config.yml under conference_nav[2027]:
