@@ -15,7 +15,7 @@ permalink: /2025/
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         line-height: 1.6;
         color: #333;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: #f8f9fa;
         min-height: 100vh;
     }
 
@@ -26,25 +26,25 @@ permalink: /2025/
     }
 
     .header {
-        background: rgba(255, 255, 255, 0.95);
-        backdrop-filter: blur(10px);
-        border-radius: 20px;
-        padding: 40px;
+        background: transparent;
+        backdrop-filter: none;
+        border-radius: 0;
+        padding: 20px 0;
         text-align: center;
         margin-bottom: 30px;
-        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        box-shadow: none;
     }
 
     .header h1 {
         font-size: 2.5em;
-        color: #2c3e50;
+        color: #1a6b3a;
         margin-bottom: 10px;
         font-weight: 700;
     }
 
     .header .date-location {
         font-size: 1.3em;
-        color: #7f8c8d;
+        color: #2c8c5a;
         margin-bottom: 15px;
     }
 
@@ -77,7 +77,7 @@ permalink: /2025/
     }
 
     .session-header {
-        background: linear-gradient(135deg, #3498db, #2980b9);
+        background: linear-gradient(135deg, #1a6b3a, #2c8c5a);
         color: white;
         padding: 20px;
         display: flex;
@@ -118,7 +118,7 @@ permalink: /2025/
         color: #2c3e50;
         margin-bottom: 15px;
         font-size: 1.2em;
-        border-bottom: 2px solid #3498db;
+        border-bottom: 2px solid #4ad98a;
         padding-bottom: 5px;
         display: inline-block;
     }
@@ -130,10 +130,10 @@ permalink: /2025/
     }
 
     .speaker-bio {
-        background: #f8f9fa;
+        background: #f0f7f0;
         border-radius: 10px;
         padding: 20px;
-        border-left: 4px solid #3498db;
+        border-left: 4px solid #4ad98a;
     }
 
     .speaker-bio h3 {
@@ -148,7 +148,7 @@ permalink: /2025/
     }
 
     .panel-session {
-        background: linear-gradient(135deg, #e74c3c, #c0392b);
+        background: linear-gradient(135deg, #e67e22, #d35400);
     }
 
     .panel-session .session-time {
@@ -204,7 +204,7 @@ permalink: /2025/
     }
 
     .toc h2 {
-        color: #2c3e50;
+        color: #1a6b3a;
         margin-bottom: 20px;
         text-align: center;
         font-size: 1.5em;
@@ -218,14 +218,14 @@ permalink: /2025/
     .toc li {
         margin-bottom: 10px;
         padding: 10px;
-        background: #f8f9fa;
+        background: #f0f7f0;
         border-radius: 8px;
-        border-left: 4px solid #3498db;
+        border-left: 4px solid #4ad98a;
     }
 
     .toc .time {
         font-weight: bold;
-        color: #2980b9;
+        color: #2c8c5a;
         display: inline-block;
         width: 100px;
     }
@@ -248,7 +248,7 @@ permalink: /2025/
         color: #2c3e50;
         margin-bottom: 20px;
         font-size: 1.2em;
-        border-bottom: 2px solid #3498db;
+        border-bottom: 2px solid #4ad98a;
         padding-bottom: 5px;
         display: inline-block;
     }
@@ -261,10 +261,10 @@ permalink: /2025/
     }
 
     .panelist-card {
-        background: #f8f9fa;
+        background: #f0f7f0;
         border-radius: 10px;
         padding: 20px;
-        border-left: 4px solid #3498db;
+        border-left: 4px solid #4ad98a;
         transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
@@ -281,7 +281,7 @@ permalink: /2025/
     }
 
     .affiliation {
-        color: #3498db;
+        color: #2c8c5a;
         font-weight: 500;
         margin-bottom: 12px;
         font-style: italic;
@@ -324,6 +324,7 @@ permalink: /2025/
             <li><span class="time">12:30-13:15</span> <span class="speaker">Panel discussion</span> - <span class="title">Computing Education in Pakistan – Going Forward in the age of AI</span></li>
         </ul>
     </section>
+
 
     <article class="agenda-section">
         <div class="session-header">

@@ -4,36 +4,26 @@ title: "Conference 2027 - Glasgow, Scotland"
 permalink: /2027/
 ---
 
-# Conference 2027
+# 2nd Conference on Computing Education Practice in Pakistan
 
-## 12-14 July 2027 | Glasgow, Scotland
+## 8th January 2027 (tentative) | Lahore, Pakistan
 
-Welcome to the 32nd Annual Conference on Innovation and Technology in Computer Science Education. We're excited to bring the conference to Glasgow, a vibrant city in the heart of Scotland.
-
-## Welcome to Glasgow
-
-Glasgow is the largest city in Scotland and the fourth-largest in the United Kingdom. It is known for its rich history, stunning architecture, and vibrant cultural scene. The city has undergone significant regeneration in recent decades and is now a hub for technology and innovation.
-
-### Getting to Glasgow
-
-- **By Air**: Glasgow Airport (GLA) and Glasgow Prestwick Airport (PIK) serve international flights.
-- **By Train**: Glasgow Central and Queen Street stations connect to major UK cities.
-- **By Road**: The M8 motorway connects Glasgow to Edinburgh and other Scottish cities.
+Welcome to the 2nd Annual Conference on Computing Education Practice in Pakistan. 
 
 ## Conference Venue
 
-The conference will be hosted by **University of Glasgow**.
-
-The main sessions will be held at the **John McIntyre Conference Centre**, located in the heart of the university campus.
+The conference will be hosted by [**University of Management and Technology, Lahore**](https://www.umt.edu.pk/)
 
 **Address:**
-University of Glasgow
-University Avenue
-Glasgow G12 8QQ
-Scotland, UK
+University of Management and Technology C-II, 
+Johar Town, Lahore.
+[Map Link](https://www.google.com/maps?cid=1096969140280024454&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=en-GB&source=embed)
 
 ## Program
 
+TBC.
+
+<!--
 <div class="program-schedule">
   <h3>Day 1 - July 12, 2027</h3>
   <ul>
@@ -58,24 +48,29 @@ Scotland, UK
     <li><strong>14:00-16:00</strong> - Workshop: Research in Computing Education</li>
   </ul>
 </div>
+-->
 
 ## Registration
 
-Registration fees will be announced soon.
+Registration fees will be announced soon. This will be a hybrid conference, and online participation will be free.
 
+
+<!--
 | Category | Early Bird | Regular |
 |----------|------------|---------|
 | ACM Member | €420 | €520 |
 | Non-Member | €520 | €620 |
 | Student | €220 | €270 |
+-->
 
 ## Committee
 
 <div class="committee-grid">
   <div class="committee-member">
     <h4>General Chair</h4>
-    <p>Dr. James Wilson<br>University of Glasgow</p>
+    <p>Dr Noman Javed<br>UMT</p>
   </div>
+<!--
   <div class="committee-member">
     <h4>Program Chair</h4>
     <p>Dr. Sarah Brown<br>University of Edinburgh</p>
@@ -84,6 +79,7 @@ Registration fees will be announced soon.
     <h4>Local Chair</h4>
     <p>Dr. David Clark<br>University of Glasgow</p>
   </div>
+-->  
 </div>
 
 [Back to Home](/)

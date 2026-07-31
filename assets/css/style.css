@@ -182,7 +182,7 @@ a:hover {
 .button {
     display: inline-block;
     background: var(--color1);
-    color: #fff;
+    color: #fff !important;
     padding: 0.6rem 1.5rem;
     border-radius: 4px;
     text-decoration: none;
@@ -193,6 +193,7 @@ a:hover {
 
 .button:hover {
     background: var(--color3);
+    color: #ffffff !important; 
     text-decoration: none;
 }
 
