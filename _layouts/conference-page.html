@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+    <header class="conference-header">
+        <div class="container">
+            <div class="conference-header-content">
+                <div class="conference-title">
+                    <a href="/{{ page.year }}/">
+                        <span class="conf-name">PkCEP {{ page.year }}</span>
+                        <span class="conf-location">{{ site.data.conferences[page.year].location }}</span>
+                    </a>
+                </div>
+                <nav class="conference-nav">    
+    <!-- Rest of your navigation code -->                
+                    <!-- Try to load from _config.yml -->
+                    {% assign nav_items = site.conference_nav[page.year] %}
+                    {% for item in nav_items %}
+                        <a href="{{ item.url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.name }}</a>
+                    {% endfor %}
+                    
+                    <a href="/" class="main-site-link">Main Site</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            {{ content }}
+        </div>
+    </main>
+
+    <footer class="conference-footer">
+        <div class="container">
+            <p>&copy; {{ page.year }} PkCEP Conference. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
