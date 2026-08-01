@@ -308,7 +308,24 @@ footer a:hover {
     gap: 1rem;
 }
 
-/* Responsive design */
+/* Fix for bullet lists and indentation */
+ul, ol {
+    padding-left: 1.5rem;  /* Adds proper indentation */
+    margin-left: 0;
+}
+
+li {
+    margin-bottom: 0.5rem;  /* Adds space between items */
+}
+
+/* If you want the list to stay within the container */
+.container ul,
+.container ol {
+    padding-left: 1.5rem;
+}
+
+
+
 /* Responsive design */
 @media (max-width: 768px) {
     .site-header,

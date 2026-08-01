@@ -7,23 +7,24 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 <body>
-    <header class="conference-header">
-        <div class="container">
-            <div class="conference-header-content">
-                <div class="conference-title">
-                    <a href="/{{ page.year }}/">
-                        <span class="conf-name">PkCEP {{ page.year }}</span>
-                        <span class="conf-location">{{ site.data.conferences[page.year].location }}</span>
+    <!-- Conference Header with Logo and Title (matching Main Site) -->
+    <header class="site-header">
+        <div class="wrapper">
+            <div class="header-content">
+                <div class="site-title">
+                    <a href="/">
+                        {% if site.logo %}
+                            <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo">
+                        {% endif %}
+                        <span class="title-text">{{ site.title }}</span>
                     </a>
                 </div>
-                <nav class="conference-nav">    
-    <!-- Rest of your navigation code -->                
-                    <!-- Try to load from _config.yml -->
+                
+                <nav class="site-nav">
                     {% assign nav_items = site.conference_nav[page.year] %}
                     {% for item in nav_items %}
                         <a href="{{ item.url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.name }}</a>
                     {% endfor %}
-                    
                     <a href="/" class="main-site-link">Main Site</a>
                 </nav>
             </div>
@@ -36,9 +37,11 @@
         </div>
     </main>
 
-    <footer class="conference-footer">
+    <footer class="site-footer">
         <div class="container">
-            <p>&copy; {{ page.year }} PkCEP Conference. All rights reserved.</p>
+            <div class="footer-content">
+                <p>&copy; {{ page.year }} {{ site.title }} Conference. All rights reserved.</p>
+            </div>
         </div>
     </footer>
 </body>
