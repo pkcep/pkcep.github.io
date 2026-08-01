@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "PkCEP - Charter"
+permalink: /charter/
 ---
 
 ## PkCEP Charter
