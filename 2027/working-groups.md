@@ -27,15 +27,16 @@ Building on prior work carried out in this area from around the world, this work
 
 Our work will be guided by these questions:
 
-**Q1.** What is the current state of adoption in Pakistan of Gen AI in computing science higher education across the three domains of curriculum, learning & teaching practices, and assessments.
+**Q1.** How is Gen AI currently being used in Pakistan in computing science higher education across the three domains of curriculum, learning & teaching practices, and assessments.
 
 **Q2.** With Gen AI now widely available in the workplace, what kind of knowledge, skills and dispositions does the industry in Pakistan now expect of computing graduates?
 
 **Q3.** What are the opportunities, challenges, and risks associated with Gen AI use in computing education in general?
 
-**Q4.** What unique opportunities, challenges, and risks are and will be encountered in an LMIC (Low- and Middle-Income country) like Pakistan, where additionally English is not a native language.
+**Q4.** What unique opportunities, challenges, and risks are and will be encountered in a non-native English-speaking LMIC (Low- and Middle-Income country) like Pakistan?
 
-**Q5.** What are the implications of the findings for computing science higher education curriculum, learning & teaching practices, and assessments.
+**Q5.** What are the implications of the findings for computing science higher education curriculum, learning & teaching practices, and assessments?
+
 The work will be carried out through a combination of secondary research of peer-reviewed academic literature that has already been published in this domain, wider literature and articles published specifically for Pakistan (or other LMICs), and primary research through a combination of surveys and interviews or focus groups of students, educators, and industry professionals. 
 
 ### Expectations of members
