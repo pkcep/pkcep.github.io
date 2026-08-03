@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PkCEP - Computing Education Practice in Pakistan"
+title: "Computing Education Practice in Pakistan"
 ---
 
 # Welcome to the PkCEP Conference Series

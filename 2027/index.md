@@ -1,6 +1,6 @@
 ---
 layout: conference-page
-title: "PkCEP 2027 - Lahore, Pakistan"
+title: "Computing Education Practice in Pakistan 2027"
 permalink: /2027/
 year: 2027
 ---

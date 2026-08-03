@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "PkCEP 2025 - Lahore, Pakistan"
+layout: conference-page
+title: "Computing Education Practice in Pakistan 2025"
 permalink: /2025/
 ---
 
@@ -307,7 +307,7 @@ permalink: /2025/
 
 <div class="container">
     <header class="header">
-        <h1>Computing Education Practice in Pakistan</h1>
+        <h1>PkCEP 2025 - 1st Conference on Computing Education Practice in Pakistan 2025</h1>
         <div class="date-location">26th July 2025, LUMS, Lahore, Pakistan</div>
         <div class="subtitle">A one-day hybrid workshop on the practice of computing education in Pakistan</div>
         <div class="description">Full Agenda, Summary of Talks, and Speaker Biographies</div>

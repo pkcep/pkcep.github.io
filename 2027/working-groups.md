@@ -1,6 +1,6 @@
 ---
 layout: conference-page
-title: "Working Groups - PkCEP 2027"
+title: "PkCEP 2027 Working Groups"
 permalink: /2027/working-groups/
 year: 2027
 ---
