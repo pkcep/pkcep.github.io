@@ -31,7 +31,7 @@ The workshop will be conducted in a hybrid form. To encourage wider disseminatio
 
 ## Program
 
-This is going to be a day-long conference, and the current tentative date for the conference is 8th January, 2007. The conference is expected to last from 9am to 4pm.
+This is going to be a day-long conference, and the current tentative date for the conference is 8th January, 2027. The conference is expected to last from 9am to 4pm.
 
 Full program TBC.
 
