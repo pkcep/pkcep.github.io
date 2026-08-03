@@ -64,14 +64,14 @@ The timeline will be as follows:
 | 15 Aug 2026 | Applications close |
 | 22 Aug 2026 | WG membership finalized, and WG starts working remotely |
 | 15 Nov 2026 | WG completes an extended abstract of their work |
-| 6-7 Jan 2027 | WG meets in person for 2 days of intense, in-person collaborative work |
+| 6-7 Jan 2027 | WG meets in person at conference venue for 2 days of in-person collaborative work |
 | 8 Jan 2027 | WG presents preliminary findings at PkCEP 2027 |
 | 31 Mar 2027 | WG output submitted for external peer review, and publishes draft on arXiv |
 
 
 ## Working Group Leaders
 
-- **Junaid Akhtar** []()
+- **Junaid Akhtar** [junaid.akhtar@umt.edu.pk](mailto:junaid.akhtar@umt.edu.pk)
 
 - **Muhammad Saqib Ilyas** [saqibm@lums.edu.pk](mailto:saqibm@lums.edu.pk)
 

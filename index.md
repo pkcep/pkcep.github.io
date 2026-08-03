@@ -59,3 +59,26 @@ title: "PkCEP - Computing Education Practice in Pakistan"
 | Early Registration | May 1, 2026 |
 | Conference | July 13-15, 2026 |
 -->
+
+## Organization
+
+<div class="committee-grid">
+  <div class="committee-member">
+    <h4>Steering Committee</h4>
+    <p>Muhammad Saqib Ilyas, LUMS, Lahore, Pakistan.<br>
+       Junaid Akhtar, UMT, Lahore, Pakistan.<br>
+       S Waqar Nabi, University of Glasgow, UK.
+    </p>
+  </div>
+<!--
+  <div class="committee-member">
+    <h4>Program Chair</h4>
+    <p>Dr. Sarah Brown<br>University of Edinburgh</p>
+  </div>
+  <div class="committee-member">
+    <h4>Local Chair</h4>
+    <p>Dr. David Clark<br>University of Glasgow</p>
+  </div>
+-->  
+</div>
+
