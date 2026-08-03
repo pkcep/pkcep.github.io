@@ -5,7 +5,12 @@ permalink: /2027/
 year: 2027
 ---
 
-# 2nd Conference on Computing Education Practice in Pakistan
+<!-- Banner Image -->
+<div class="banner-container">
+  <img src="/2027/assets/images/vision-umt-banner-v1.jpg" alt="PkCEP 2027 Banner" class="banner-image">
+</div>
+
+# PkCEP 2027 - Computing Education Practice in Pakistan
 
 Welcome to the 2nd Annual Conference on Computing Education Practice in Pakistan, which will be held on **8th January 2027** *(tentative)*.
 
